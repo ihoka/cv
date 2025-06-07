@@ -19,13 +19,13 @@ Software Architect, Principal Engineer, startup CTO
 
 ## About
 
-Software Architect, Principal Engineer, startup CTO, with 12 years leadership/mentoring experience, and over 17 years software engineering experience.
+Software Architect, Principal Engineer, startup CTO, with 17 years leadership/mentoring experience, and over 20 years software engineering experience.
 
 I started programming at age 12 with BASIC on my Z80 computer. In high school I learned Pascal and C, and built my first games with the Allegro game programming library in C. Learned Java, HMTL, CSS in college and got my first job as a junior web developer. Started my company in 2005 and working as a freelance contractor making web applications. Discovered Ruby on Rails in 2006, fell in love with it; it is what kickstarted my professional career.
 
 I have acted as a consultant (contractor), own product developer, and employee. Over time I have planned product roadmaps, architected systems, hired and trained technical teams, and done full stack web development. I have acted as the CTO for various US-based companies (partners and clients): Blinksale, ZenCash (the Receivables CRM, not the cryptocurrency), Digital Takeover.
 
-Although software architecture has been an important component in all my experience, I have lately been focused more on software architecture rather than engineering. My most extensive experience as an engineer is with Ruby / Rails for full-stack apps or APIs, and Javascript / Ember.js for frontend development. Over time, I have extended to learning React.js, Typescript and Python.
+Although software architecture has been an important component in all my experience, lately I have been more keenly focused on software architecture to complement engineering. My most extensive experience as an engineer is with Ruby / Rails for full-stack apps or APIs, and Javascript / Ember.js for frontend development. Over time, I have extended to learning React.js, Typescript and Python.
 
 At core I am a problem solver. I love great code and a beautifully crafted piece of software, but ultimately it is only useful if it solves a valid problem.
 
@@ -33,39 +33,38 @@ At core I am a problem solver. I love great code and a beautifully crafted piece
 
 Somewhat ranked, based on experience:
 
+* Engineering practices
+* Developer productivity
 * Software architecture
 * Technical leadership
 * Backend engineering
-* Ruby, Ruby on Rails
-* (Web) frontend engineering
-* DevOps, CI/CD
 * Generative AI engineering
-* E-commerce domain
-* Accounting domain
-* JavaScript
-* Ember.js
-* Node.js
+* DevOps, CI/CD
+* Ruby, Ruby on Rails
 * Python
-* SQL
-* NoSQL
-* Docker
-* React.js
+* JavaScript / Node.js
 * TypeScript
+* (Web) frontend engineering (React.js, Ember.js)
+* E-commerce business domain
+* Accounting business domain
 
 ## Work experience
 
-`May 2023 - Present`
+`May 2023 - May 2025`
 __Principal Engineer__ (permanent), Builder.ai, London
 
-Working across 3 engineering teams focused on the Building Blocks (reusable softare components in the Builder catalog) platform.
+Working across 4 engineering teams focused on the Application Assembly process and Building Blocks (reusable software components in the Builder catalog) platform.
 
-* Defined and implemented versioning and maintenance policy for Blocks
+* Defined and implemented versioning and maintenance policies for Blocks. Semantic versioning, deprecation strategy, etc.
 * Designed and lead implementation of:
-  * CI/CD solution servicing 500+ software components (Ruby & React).
-  * new-Block generation solution for the Block assembly process.
-  * Blocks Package manager for Ruby and React components.
-  * Blocks Maintainance tooling platform using Generative AI.
-  * Blocks dependency graph
+  * Blocksmith: GenAI based framework to handle batch maintenance across the Blocks catalogue.
+  * CI/CD pipelines servicing 500+ software components (Ruby/Rails & React). Leveraged `gitlab-ci-local` to implement unit tests for CI/CD pipelines!
+  * BVM: Blocks Version Manager - for Ruby and React components to fill in gaps for the platform package managers (`bundler` and `yarn`)
+  * Blocks Dependency Graph based on Neo4j to improve the stack upgrade process (Ruby, Rails, React, React Native upgrades).
+  * Blocks Workspace, to enable engineers to have a turn-key local dev environment which allows full stack development (Backend / Ruby + Frontend / React  Blocks)
+* Defined and implemented error handling and automatic testing standards across 500+ software components.
+* Participated in the Architecture Review Board and helped define an Architectural Framework to deal with Baseline Architecture, Solution Designs and review process for architectural changes.
+* Spearheaded the adoption of GenAI / Copilot dev tools across the Blocks and Assembly teams.
 
 `Apr 2022 - Apr 2023`
 __Software Solutions Architect__ (permanent), notonthehighstreet.com, London
