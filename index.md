@@ -55,7 +55,7 @@ Somewhat ranked, based on experience:
 `May 2023 - May 2025`
 __Principal Engineer__ (permanent), Builder.ai, London
 
-Working across 4 engineering teams focused on the Application Assembly process and Building Blocks (reusable software components in the Builder catalog) platform.
+Working across 4 engineering teams focused on the Application Assembly process and Building Blocks (reusable software components in the Builder software catalog).
 
 * Defined and implemented versioning and maintenance policies for Blocks. Semantic versioning, deprecation strategy, etc.
 * Designed and lead implementation of:
