@@ -49,13 +49,13 @@ Passionate about elegant solutions that solve real problems without over-enginee
 `May 2023 - May 2025`
 **Builder.ai**, Principal Engineer (IC6)
 
-Led technical transformation across 4 engineering teams focused on Application Assembly and Building Blocks platform serving hundreds of SMB and SME customers.
+Led technical transformation across 4 engineering teams focused on Application Assembly and Building Blocks platform serving hundreds of SME customers.
 
 Strategic Architecture & Standards:
 
 * Designed new platform architecture supporting stack-agnostic backends (Ruby/Rails, Python/Django/FastAPI, Node.js/Next.js) with React & React Native frontends, moving away from single stack support, while reducing the complexity of stack upgrades by proper employment of separation of concerns.
-* Defined versioning and maintenance policies for 500+ software components, enabling adoption of SemVer, and enuring compatibility between components.
-* Established error handling and testing standards, improving componets reliability and security.
+* Defined versioning and maintenance policies for 500+ software components, enabling adoption of SemVer, and ensuring compatibility between components.
+* Established error handling and testing standards, improving components reliability and security.
 * Participated in Architecture Review Board, defining an Architectural Framework (inspired by TOGAF) for the BX Org Unit: Architecture Repository, templates for Baseline Architecture, Solution Designs, defined Governance process.
 
 Developer Productivity & Innovation:
