@@ -44,56 +44,31 @@ Passionate about elegant solutions that solve real problems without over-enginee
 * **Engineering Excellence**: Establishing practices that balance speed with quality
 * **Problem-First Thinking**: Technology choices driven by business needs, not technology trends
 
-## About
-
-Principal Engineer, software architect, startup CTO, with 17 years leadership/mentoring experience, and over 20 years software engineering experience.
-
-I started programming at age 12 with BASIC on my Z80 computer. In high school I learned Pascal and C, and built my first games with the Allegro game programming library in C. Learned Java, HMTL, CSS in college and got my first job as a junior web developer. Started my company in 2005 and working as a freelance contractor making web applications. Discovered Ruby on Rails in 2006, fell in love with it; it is what kickstarted my professional career.
-
-I have acted as a consultant (contractor), own product developer, and employee. Over time I have planned product roadmaps, architected systems, hired and trained technical teams, and done full stack web development. I have acted as the CTO for various US-based companies (partners and clients): Blinksale, ZenCash (the Receivables CRM, not the cryptocurrency), Digital Takeover.
-
-Although software architecture has been an important component in all my experience, lately I have been more keenly focused on it as a  complement to good engineering practices. My most extensive experience as an engineer is with Ruby / Rails for full-stack apps or APIs, and Javascript / React.js for frontend development. Over time, I have extended to Node.js, Typescript and Python.
-
-At core I am a problem solver. I love great code and a beautifully crafted piece of software, but ultimately it is only useful if it solves a valid problem.
-
-My current strength lies in "building the machine that builds the machine".
-
-### Skills
-
-Somewhat ranked, based on experience:
-
-* Engineering practices
-* Developer productivity
-* Software architecture
-* Technical leadership
-* Backend engineering
-* Generative AI engineering
-* DevOps, CI/CD
-* Ruby, Ruby on Rails
-* Python
-* JavaScript / Node.js
-* TypeScript
-* (Web) frontend engineering (React.js, Ember.js)
-* E-commerce business domain
-* Accounting business domain
-
 ## Work experience
 
 `May 2023 - May 2025`
-**Principal Engineer** (permanent), Builder.ai, London
+**Builder.ai**, Principal Engineer (IC6)
 
-Working across 4 engineering teams focused on the Application Assembly process and Building Blocks (reusable software components in the Builder software catalog).
+Led technical transformation across 4 engineering teams focused on Application Assembly and Building Blocks platform serving hundreds of SMB and SME customers.
 
-* Defined and implemented versioning and maintenance policies for Blocks. Semantic versioning, deprecation strategy, etc.
-* Designed and lead implementation of:
-  * Blocksmith: GenAI based framework to handle batch maintenance across the Blocks catalogue.
-  * CI/CD pipelines servicing 500+ software components (Ruby/Rails & React). Leveraged `gitlab-ci-local` to implement unit tests for CI/CD pipelines!
-  * BVM: Blocks Version Manager - for Ruby and React components to fill in gaps for the platform package managers (`bundler` and `yarn`)
-  * Blocks Dependency Graph based on Neo4j to improve the stack upgrade process (Ruby, Rails, React, React Native upgrades).
-  * Blocks Workspace, to enable engineers to have a turn-key local dev environment which allows full stack development (Backend / Ruby + Frontend / React  Blocks)
-* Defined and implemented error handling and automatic testing standards across 500+ software components.
-* Participated in the Architecture Review Board and helped define an Architectural Framework to deal with Baseline Architecture, Solution Designs and review process for architectural changes.
-* Spearheaded the adoption of GenAI / Copilot dev tools across the Blocks and Assembly teams.
+Strategic Architecture & Standards:
+
+* Designed new platform architecture supporting stack-agnostic backends (Ruby/Rails, Python/Django/FastAPI, Node.js/Next.js) with React & React Native frontends, moving away from single stack support, while reducing the complexity of stack upgrades by proper employment of separation of concerns.
+* Defined versioning and maintenance policies for 500+ software components, enabling adoption of SemVer, and enuring compatibility between components.
+* Established error handling and testing standards, improving componets reliability and security.
+* Participated in Architecture Review Board, defining an Architectural Framework (inspired by TOGAF) for the BX Org Unit: Architecture Repository, templates for Baseline Architecture, Solution Designs, defined Governance process.
+
+Developer Productivity & Innovation:
+
+* Built Blocksmith GenAI framework for batch maintenance of Blocks, reducing manual work by 90%: automatic documentation generation, application of error handling and unit testing standards, stack upgrades.
+* Designed and implemented Blocks Workspace, enabling turn-key local full-stack development, cutting developer onboarding time from days to minutes.
+* Implemented BVM (Blocks Version Manager) filling gaps in platform package managers, improving dependency resolution of Blocks. This allowed the rollout of SemVer for Blocks, taking into account their compatibility with the stack version as well (Ruby, Rails, React, React Native).
+
+Infrastructure & Tooling:
+
+* Architected highly modular CI/CD pipelines for 500+ components using [`gitlab-ci-local`](https://github.com/firecow/gitlab-ci-local) to enable rapid feedback loop and unit tests for pipelines themselves.
+* Built Neo4j-based dependency graph improving stack upgrade process efficiency and allowing Natasha AI to understand the dependencies between components using MCP.
+* Drove adoption of GenAI development tools across teams, modernising and improving developers' workflows.
 
 `Apr 2022 - Apr 2023`
 **Software Solutions Architect** (permanent), notonthehighstreet.com, London
