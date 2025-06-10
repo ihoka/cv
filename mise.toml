@@ -1,0 +1,4 @@
+[tools]
+
+[tasks."dev"]
+run = "jekyll serve"
