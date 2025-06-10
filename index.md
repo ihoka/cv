@@ -27,14 +27,6 @@ title: Istvan Hoka
 * GenAI Engineering
 * Full-Stack Development
 
-## Key Achievements
-
-* **System Architecture at Scale**: Designed dependency management systems and CI/CD pipelines serving 500+ Ruby/Rails & React components, reducing build times by 90% and enabling hundreds of deployments per day (as opposed to one every several weeks).
-* **GenAI Innovation**: Spearheaded adoption of GenAI/Copilot tools across engineering teams, building BlockSmith framework for automated maintenance that reduced manual work by 90%
-* **High-Traffic Platform Development**: Built web APIs and real-time systems serving up to 50M monthly visitors with 200ms response times and 99.999% uptime
-* **Team Building & Leadership**: Hired and trained development teams of 20 engineers, establishing coding standards and architectural frameworks adopted company-wide
-* **Business-Critical Problem Solving**: Identified and fixed compound precision errors in tax systems, reducing company tax liability by £500k annually.
-
 ## Technical Leadership Philosophy
 
 Passionate about elegant solutions that solve real problems without over-engineering. Focus on:
@@ -43,6 +35,14 @@ Passionate about elegant solutions that solve real problems without over-enginee
 * **Sustainable Architecture**: Designing systems for maintainability and long-term growth
 * **Engineering Excellence**: Establishing practices that balance speed with quality
 * **Problem-First Thinking**: Technology choices driven by business needs, not technology trends
+
+## Key Achievements
+
+* **System Architecture at Scale**: Designed dependency management systems and CI/CD pipelines serving 500+ Ruby/Rails & React components, reducing build times by 90% and enabling hundreds of deployments per day (as opposed to one every several weeks).
+* **GenAI Innovation**: Spearheaded adoption of GenAI/Copilot tools across engineering teams, building BlockSmith framework for automated maintenance that reduced manual work by 90%
+* **High-Traffic Platform Development**: Built web APIs and real-time systems serving up to 50M monthly visitors with 200ms response times and 99.999% uptime
+* **Team Building & Leadership**: Hired and trained development teams of 20 engineers, establishing coding standards and architectural frameworks adopted company-wide
+* **Business-Critical Problem Solving**: Identified and fixed compound precision errors in tax systems, reducing company tax liability by £500k annually.
 
 ## Work experience
 
